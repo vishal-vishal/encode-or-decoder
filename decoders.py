@@ -69,6 +69,3 @@ def base16_Decode(u):
     except:
         return "Not Printable data"
 
-if True:
-    pass
-
